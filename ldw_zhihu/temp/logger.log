@@ -1,0 +1,43 @@
+2016-11-14 15:41:13,582 | mylogger | INFO | save captcha to local machine.
+2016-11-14 15:43:23,654 | mylogger | INFO | Login success!
+2016-11-14 15:46:00,572 | mylogger | INFO | save captcha to local machine.
+2016-11-14 15:46:14,616 | mylogger | INFO | Login success!
+2016-11-14 16:04:59,192 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:05:10,910 | mylogger | ERROR | Login Failed!
+2016-11-14 16:05:10,910 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 16:06:44,311 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:06:56,412 | mylogger | ERROR | Login Failed!
+2016-11-14 16:06:56,412 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 16:07:38,567 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:07:51,353 | mylogger | ERROR | Login Failed!
+2016-11-14 16:07:51,353 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 16:08:39,719 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:08:49,857 | mylogger | ERROR | Login Failed!
+2016-11-14 16:08:49,858 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 16:10:11,302 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:10:19,341 | mylogger | ERROR | Login Failed!
+2016-11-14 16:10:19,341 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 16:11:05,637 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:11:39,957 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:11:44,184 | mylogger | ERROR | Login Failed!
+2016-11-14 16:11:44,184 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 16:13:29,302 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:13:40,707 | mylogger | ERROR | Login Failed!
+2016-11-14 16:13:40,708 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 16:15:04,117 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:15:04,464 | mylogger | ERROR | Login Failed!
+2016-11-14 16:15:04,465 | mylogger | ERROR | Error info ---> 提交过快，请稍后重试 :(
+2016-11-14 16:18:51,876 | mylogger | INFO | save captcha to local machine.
+2016-11-14 16:19:01,544 | mylogger | INFO | Login success!
+2016-11-14 18:53:28,537 | mylogger | INFO | save captcha to local machine.
+2016-11-14 18:54:08,137 | mylogger | INFO | Login success!
+2016-11-14 19:40:21,184 | mylogger | INFO | save captcha to local machine.
+2016-11-14 19:40:32,243 | mylogger | ERROR | Login Failed!
+2016-11-14 19:40:32,243 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 19:40:47,951 | mylogger | INFO | save captcha to local machine.
+2016-11-14 19:40:59,214 | mylogger | ERROR | Login Failed!
+2016-11-14 19:40:59,214 | mylogger | ERROR | Error info ---> 请提交正确的验证码 :(
+2016-11-14 20:35:53,779 | mylogger | INFO | save captcha to local machine.
+2016-11-14 20:36:10,088 | mylogger | INFO | Login success!
+2016-11-15 17:06:55,544 | mylogger | INFO | save captcha to local machine.
+2016-11-15 17:07:09,266 | mylogger | INFO | Login success!

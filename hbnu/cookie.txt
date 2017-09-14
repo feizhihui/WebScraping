@@ -1,0 +1,16 @@
+[
+{
+    "domain": ".hbnu.edu.cn",
+    "expirationDate": 1481644783.170128,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "safedog-flow-item",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "309DC6B2C4410F8E17983599A0E95B91",
+    "id": 1
+}
+]
